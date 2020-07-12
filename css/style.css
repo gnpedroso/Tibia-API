@@ -1,0 +1,18 @@
+body{
+  background-color: #f4f2de;
+  color: black;
+
+}
+
+.container{
+  text-align: center;
+  align-content: center;
+}
+
+form{
+  align-self: center;
+}
+
+ul{
+  text-align: start;
+}
